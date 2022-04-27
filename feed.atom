@@ -1,10 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-27T06:30:40.667Z</id>
+    <id>urn:2022-04-27T06:35:23.818Z</id>
     <title>osmos::feed</title>
-    <updated>2022-04-27T06:30:40.667Z</updated>
+    <updated>2022-04-27T06:35:23.818Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[MMMUT MET 2022: Application Form (Released), Registration, Dates, Eligibility @ mmmut.ac.in]]></title>
+        <id>https://www.schools360.in/?p=184273</id>
+        <link href="https://www.schools360.in/mmmut-met/"/>
+        <updated>2022-04-27T06:07:40.000Z</updated>
+        <summary type="html"><![CDATA[MMMUT MET 2022 Application Form @ mmmut.ac.in. Check MMMUT MET Application Fee, MMMUT MET Eligibility, MMMUT MET Eligibility Here. Madan Mohan Malaviya University of Technology has released the MMMUT MET Application Form 2022 in online, The Last Date to submit the MMMUT MET Application Form 2022 is June 10th, 2022. All the candidates who are
+The post MMMUT MET 2022: Application Form (Released), Registration, Dates, Eligibility @ mmmut.ac.in appeared first on Schools360.in.]]></summary>
+        <author>
+            <name>Maheshari Yerra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ATSE 2022: Application Form (5 to 12 Class), Dates, Eligibility, Syllabus @ atse.aglasem.com]]></title>
+        <id>https://www.schools360.in/?p=184271</id>
+        <link href="https://www.schools360.in/atse/"/>
+        <updated>2022-04-27T05:36:40.000Z</updated>
+        <summary type="html"><![CDATA[ATSE Scholarship Test for Class 5th to 12th Students ATSE Application Form 2022 has Opened on April 21st, 2022. The last date to fill the ATSE Application Form 2022 is June 30th, 2022. Students who are interested can fill the ATSE 2022.  Aglasem is going to conduct Aglasem Talent Search Examination for Scholarships Worth 12 Lakh For 360
+The post ATSE 2022: Application Form (5 to 12 Class), Dates, Eligibility, Syllabus @ atse.aglasem.com appeared first on Schools360.in.]]></summary>
+        <author>
+            <name>Maheshari Yerra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SBI SCO 2022 Apply Online Specialist Cadre Officers on Contract Basis]]></title>
+        <id>https://wordpress-625465-2031528.cloudwaysapps.com/?p=43918</id>
+        <link href="https://www.schools360.in/sbi-sco/"/>
+        <updated>2022-04-27T04:53:59.000Z</updated>
+        <summary type="html"><![CDATA[SBI Recruitment 2022: State Bank of India SBI has announced the latest Notification to recruit Specialist Cadre Officer – Chief Information Security Officer. Interested and Eligible Candidates can apply before Last Date which is 17.05.2022. Full Details of these 01 Vacancies are as Follows… SBI Notification 2022 – Specialist Cadre Officer – Chief Information Security Officer Specialist Cadre Officer
+The post SBI SCO 2022 Apply Online Specialist Cadre Officers on Contract Basis appeared first on Schools360.in.]]></summary>
+        <author>
+            <name>Schools 360</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Linux chmod and chown – How to Change File Permissions and Ownership in Linux]]></title>
         <id>626074adac55f60686c397ae</id>
@@ -106,18 +139,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Avoiding the Pitfalls of Nested Components in a Design System]]></title>
-        <id>https://css-tricks.com/?p=365359</id>
-        <link href="https://css-tricks.com/nested-components-in-a-design-system/"/>
-        <updated>2022-04-26T14:30:20.000Z</updated>
-        <summary type="html"><![CDATA[When creating a component-based, front-end infrastructure, one of the biggest pain points I’ve personally encountered is making components that are both reusable and responsive when there are nested components within components.
-Take the following “call to action” (<CTA />…
-Avoiding the Pitfalls of Nested Components in a Design System originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Dan Christofi</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Preventing Bad UX Through Integrated Design Workflows]]></title>
         <id>https://smashingmagazine.com/2022/04/ux-integrated-design-workflows/</id>
         <link href="https://smashingmagazine.com/2022/04/ux-integrated-design-workflows/"/>
@@ -135,17 +156,6 @@ Avoiding the Pitfalls of Nested Components in a Design System originally publish
         <summary type="html"><![CDATA[In this article, Jhey Tompkins explores one of GreenSocks’ newest plugins alongside React to create an impractical whimsical spin on a well-known native element: ``.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Jhey Tompkins)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Writing Strong Front-end Test Element Locators]]></title>
-        <id>https://css-tricks.com/?p=364218</id>
-        <link href="https://css-tricks.com/front-end-test-element-locators/"/>
-        <updated>2022-04-22T18:45:38.000Z</updated>
-        <summary type="html"><![CDATA[Automated front-end tests are awesome. We can write a test with code to visit a page — or load up just a single component — and have that test code click on things or type text like a user would, …
-Writing Strong Front-end Test Element Locators originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Mark Noonan</name>
         </author>
     </entry>
     <entry>
@@ -169,17 +179,6 @@ Writing Strong Front-end Test Element Locators originally published on CSS-Trick
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Adding Tailwind CSS to New and Existing WordPress Themes]]></title>
-        <id>https://css-tricks.com/?p=364880</id>
-        <link href="https://css-tricks.com/adding-tailwind-css-to-wordpress-themes/"/>
-        <updated>2022-04-20T15:30:29.000Z</updated>
-        <summary type="html"><![CDATA[In the 15 or so years since I started making WordPress websites, nothing has had more of an impact on my productivity — and my ability to enjoy front-end development — than adding Tailwind CSS to my workflow (and it …
-Adding Tailwind CSS to New and Existing WordPress Themes originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Greg Sullivan</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Productivity Tips And Tools For A More Efficient Workflow]]></title>
         <id>https://smashingmagazine.com/2022/04/productivity-tips-tools/</id>
         <link href="https://smashingmagazine.com/2022/04/productivity-tips-tools/"/>
@@ -197,18 +196,6 @@ Adding Tailwind CSS to New and Existing WordPress Themes originally published on
         <summary type="html"><![CDATA[In this article, Ekene Eze shares his thoughts about the direction of the web in 2022, and what solutions we can expect to see come up in the ecosystem to significantly improve the Jamstack experience.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Ekene Eze)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Making Mermaid Diagrams in Markdown]]></title>
-        <id>https://css-tricks.com/?p=364908</id>
-        <link href="https://css-tricks.com/making-mermaid-diagrams-in-markdown/"/>
-        <updated>2022-04-18T16:01:08.000Z</updated>
-        <summary type="html"><![CDATA[Mermaid diagrams and flowcharts have been gaining traction, especially with GitHub’s announcement that they are natively supported in Markdown. Let’s take a look at what they are, how to use them, and just as importantly: why.
-Just like you …
-Making Mermaid Diagrams in Markdown originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Paul Esch-Laurent</name>
         </author>
     </entry>
     <entry>
@@ -249,17 +236,6 @@ Making Mermaid Diagrams in Markdown originally published on CSS-Tricks. You shou
         <summary type="html"><![CDATA[Carousels don’t have a good reputation, and rightfully so. But we can make them more useful. **Best practices and guidelines** to improve the carousel design with honest scrolling direction, labels, thumbnails and grouped prev/next-buttons.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Add a CSS Lens Flare to Photos for a Bright Touch]]></title>
-        <id>https://css-tricks.com/?p=364385</id>
-        <link href="https://css-tricks.com/add-a-css-lens-flare-to-photos-for-a-bright-touch/"/>
-        <updated>2022-04-12T17:10:13.000Z</updated>
-        <summary type="html"><![CDATA[I’m a big fan of movies by J.J. Abrams. I enjoy their tight plots, quippy dialog, and of course: anamorphic lens flares. Filmmakers like Abrams use lens flare to add a dash of ‘homemade’ realism to their movies, …
-Add a CSS Lens Flare to Photos for a Bright Touch originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Shimin Zhang</name>
         </author>
     </entry>
     <entry>
@@ -323,17 +299,6 @@ Add a CSS Lens Flare to Photos for a Bright Touch originally published on CSS-Tr
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Adding CDN Caching to a Vite Build]]></title>
-        <id>https://css-tricks.com/?p=364166</id>
-        <link href="https://css-tricks.com/adding-cdn-caching-to-a-vite-build/"/>
-        <updated>2022-04-04T18:25:23.000Z</updated>
-        <summary type="html"><![CDATA[Content delivery networks, or CDNs, allow you to improve the delivery of your website’s static resources, most notably, with CDN caching. They do this by serving your content from edge locations, which are located all over the world. When a …
-Adding CDN Caching to a Vite Build originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Adam Rackis</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How To Build A Progressively Enhanced, Accessible, Filterable And Paginated List]]></title>
         <id>https://smashingmagazine.com/2022/04/accessible-filterable-paginated-list-11ty-alpinejs/</id>
         <link href="https://smashingmagazine.com/2022/04/accessible-filterable-paginated-list-11ty-alpinejs/"/>
@@ -361,17 +326,6 @@ Adding CDN Caching to a Vite Build originally published on CSS-Tricks. You shoul
         <summary type="html"><![CDATA[Let’s welcome the new month with some new wallpapers. Designed with love by artists and designers from across the globe, they are available in versions with and without a calendar for April 2022.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tricks to Cut Corners Using CSS Mask and Clip-Path Properties]]></title>
-        <id>https://css-tricks.com/?p=364279</id>
-        <link href="https://css-tricks.com/cut-corners-using-css-mask-and-clip-path-properties/"/>
-        <updated>2022-03-30T16:35:08.000Z</updated>
-        <summary type="html"><![CDATA[We recently covered creating fancy borders with CSS mask properties, and now we are going to cut the corners with CSS mask and clip-path! A lot of techniques exist to cut different shapes from the corners of any element. …
-Tricks to Cut Corners Using CSS Mask and Clip-Path Properties originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Temani Afif</name>
         </author>
     </entry>
     <entry>
