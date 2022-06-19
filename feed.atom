@@ -1,105 +1,118 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-18T00:53:26.876Z</id>
+    <id>urn:2022-06-19T00:53:46.973Z</id>
     <title>osmos::feed</title>
-    <updated>2022-06-18T00:53:26.876Z</updated>
-    <generator>osmosfeed 1.14.4</generator>
+    <updated>2022-06-19T00:53:46.973Z</updated>
+    <generator>osmosfeed 1.15.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[AP SCERT Training on New 8th Class Textbooks from June 27 to July 01]]></title>
-        <id>https://www.schools360.in/?p=187653</id>
-        <link href="https://www.schools360.in/ap-scert-training-on-new-8th-class-textbooks-from-june-27-to-july-01/"/>
-        <updated>2022-06-17T17:30:34.000Z</updated>
-        <summary type="html"><![CDATA[PROCEEDINGS OF THE DIRECTOR, STATE COUNCIL OF EDUCATIONAL RESEARCH AND TRAINING, ANDHRA PRADESH, AMARAVATI Present : B.Pratapa Reddy, Proc..No. ESE02/187/2022SCERT Dated:17/06/2022. Sub: School Education – SCERT, AP – Training on VIII Class new textbooks – (NCERT) from 27-06-2022 to 01-07-2022 in virtual mode –Participation of teachers – Certain instructions issued. – Reg. ORDER: All the
-The post AP SCERT Training on New 8th Class Textbooks from June 27 to July 01 appeared first on Schools360.in.]]></summary>
+        <title type="html"><![CDATA[v1.15.0]]></title>
+        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.15.0</id>
+        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.15.0"/>
+        <updated>2022-06-18T19:01:33.000Z</updated>
+        <summary type="html"><![CDATA[Added: Resolve relative URLs in item link and media
+Added: Item thumbnail fallback to channel thumbnail
+Chore: Dependency updates
+Thank you: @cpwnd]]></summary>
+        <author>
+            <name>Release notes from osmosfeed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AP Inter Admission Schedule 2022-23 (OUT) AP Intermediate Application Dates]]></title>
+        <id>https://wordpress-625465-2031528.cloudwaysapps.com/?p=64800</id>
+        <link href="https://www.schools360.in/ap-inter-admissions/"/>
+        <updated>2022-06-18T17:39:05.000Z</updated>
+        <summary type="html"><![CDATA[AP Intermediate Admissions 2022-23  ఎపి ఇంటర్ అడ్మిషన్ షెడ్యూల్ News Updates @ bie.ap.gov.in:  Board of Intermediate Education, Amaravati, Andhra Pradesh has issued Orders for Intermediate Admissions  for the academic Year 2022-23. All the Principals of Junior Colleges & Composite Degree Colleges offering Two years Intermediate course in the State. Rc.No.109/E3/2022-23, Date: 18-06-2022 Sub: BIE, A.P., Admission
+The post AP Inter Admission Schedule 2022-23 (OUT) AP Intermediate Application Dates appeared first on Schools360.in.]]></summary>
         <author>
             <name>Schools 360</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AP SCERT Training on New 8th Class Textbooks from June 27 to July 01]]></title>
-        <id>https://www.schools360.in/?p=187653</id>
-        <link href="https://www.schools360.in/ap-scert-training-on-new-8th-class-textbooks-from-june-27-to-july-01/"/>
-        <updated>2022-06-17T17:30:34.000Z</updated>
-        <summary type="html"><![CDATA[PROCEEDINGS OF THE DIRECTOR, STATE COUNCIL OF EDUCATIONAL RESEARCH AND TRAINING, ANDHRA PRADESH, AMARAVATI Present : B.Pratapa Reddy, Proc..No. ESE02/187/2022SCERT Dated:17/06/2022. Sub: School Education – SCERT, AP – Training on VIII Class new textbooks – (NCERT) from 27-06-2022 to 01-07-2022 in virtual mode –Participation of teachers – Certain instructions issued. – Reg. ORDER: All the
-The post AP SCERT Training on New 8th Class Textbooks from June 27 to July 01 appeared first on Schools360.in.]]></summary>
+        <title type="html"><![CDATA[AP Inter Admission Schedule 2022-23 (OUT) AP Intermediate Application Dates]]></title>
+        <id>https://wordpress-625465-2031528.cloudwaysapps.com/?p=64800</id>
+        <link href="https://www.schools360.in/ap-inter-admissions/"/>
+        <updated>2022-06-18T17:39:05.000Z</updated>
+        <summary type="html"><![CDATA[AP Intermediate Admissions 2022-23  ఎపి ఇంటర్ అడ్మిషన్ షెడ్యూల్ News Updates @ bie.ap.gov.in:  Board of Intermediate Education, Amaravati, Andhra Pradesh has issued Orders for Intermediate Admissions  for the academic Year 2022-23. All the Principals of Junior Colleges & Composite Degree Colleges offering Two years Intermediate course in the State. Rc.No.109/E3/2022-23, Date: 18-06-2022 Sub: BIE, A.P., Admission
+The post AP Inter Admission Schedule 2022-23 (OUT) AP Intermediate Application Dates appeared first on Schools360.in.]]></summary>
         <author>
             <name>Schools 360</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AP SCERT Training on New 8th Class Textbooks from June 27 to July 01]]></title>
-        <id>https://www.schools360.in/?p=187653</id>
-        <link href="https://www.schools360.in/ap-scert-training-on-new-8th-class-textbooks-from-june-27-to-july-01/"/>
-        <updated>2022-06-17T17:30:34.000Z</updated>
-        <summary type="html"><![CDATA[PROCEEDINGS OF THE DIRECTOR, STATE COUNCIL OF EDUCATIONAL RESEARCH AND TRAINING, ANDHRA PRADESH, AMARAVATI Present : B.Pratapa Reddy, Proc..No. ESE02/187/2022SCERT Dated:17/06/2022. Sub: School Education – SCERT, AP – Training on VIII Class new textbooks – (NCERT) from 27-06-2022 to 01-07-2022 in virtual mode –Participation of teachers – Certain instructions issued. – Reg. ORDER: All the
-The post AP SCERT Training on New 8th Class Textbooks from June 27 to July 01 appeared first on Schools360.in.]]></summary>
+        <title type="html"><![CDATA[AP Inter Admission Schedule 2022-23 (OUT) AP Intermediate Application Dates]]></title>
+        <id>https://wordpress-625465-2031528.cloudwaysapps.com/?p=64800</id>
+        <link href="https://www.schools360.in/ap-inter-admissions/"/>
+        <updated>2022-06-18T17:39:05.000Z</updated>
+        <summary type="html"><![CDATA[AP Intermediate Admissions 2022-23  ఎపి ఇంటర్ అడ్మిషన్ షెడ్యూల్ News Updates @ bie.ap.gov.in:  Board of Intermediate Education, Amaravati, Andhra Pradesh has issued Orders for Intermediate Admissions  for the academic Year 2022-23. All the Principals of Junior Colleges & Composite Degree Colleges offering Two years Intermediate course in the State. Rc.No.109/E3/2022-23, Date: 18-06-2022 Sub: BIE, A.P., Admission
+The post AP Inter Admission Schedule 2022-23 (OUT) AP Intermediate Application Dates appeared first on Schools360.in.]]></summary>
         <author>
             <name>Schools 360</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AP 8th Class Textbooks 2022-23 PDF (New) AP SCERT Class VIII EM/TM Text Books All Subjects]]></title>
-        <id>https://wordpress-625465-2031528.cloudwaysapps.com/?p=66557</id>
-        <link href="https://www.schools360.in/ap-scert-8th-class-textbooks-download-em-tm-all-subjects-pdf/"/>
-        <updated>2022-06-17T17:26:27.000Z</updated>
-        <summary type="html"><![CDATA[AP SCERT 8th Class All Subjects Textbooks and Teachers Hand Guides are Available Here. So all Students who are studying Class VIII can Download the English Medium or Telugu Medium Text Books from the below links. You can Prepare for 8th Class through workbooks which will be provided here soon. Dear Students and Teachers! From
-The post AP 8th Class Textbooks 2022-23 PDF (New) AP SCERT Class VIII EM/TM Text Books All Subjects appeared first on Schools360.in.]]></summary>
+        <title type="html"><![CDATA[RML Hospital Recruitment 2022 Walk-in for 155 Junior Resident Vacancy]]></title>
+        <id>https://wordpress-625465-2031528.cloudwaysapps.com/?p=56590</id>
+        <link href="https://www.schools360.in/rml-hospital-notification/"/>
+        <updated>2022-06-18T17:05:29.000Z</updated>
+        <summary type="html"><![CDATA[Dr. Ram Manohar Lohia Hospital RML Hospital conducting Walk-in-interview for the recruitment of the posts of 155 Junior residents under RML Hospital Recruitment. All Eligible and Interested applicants may attend Walk-in-interview on 24th June 2022. other Details Like education qualification, age limit, selection process, application fee & how to apply, important links, syllabus, admit cards,
+The post RML Hospital Recruitment 2022 Walk-in for 155 Junior Resident Vacancy appeared first on Schools360.in.]]></summary>
         <author>
             <name>Schools 360</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AP 8th Class Textbooks 2022-23 PDF (New) AP SCERT Class VIII EM/TM Text Books All Subjects]]></title>
-        <id>https://wordpress-625465-2031528.cloudwaysapps.com/?p=66557</id>
-        <link href="https://www.schools360.in/ap-scert-8th-class-textbooks-download-em-tm-all-subjects-pdf/"/>
-        <updated>2022-06-17T17:26:27.000Z</updated>
-        <summary type="html"><![CDATA[AP SCERT 8th Class All Subjects Textbooks and Teachers Hand Guides are Available Here. So all Students who are studying Class VIII can Download the English Medium or Telugu Medium Text Books from the below links. You can Prepare for 8th Class through workbooks which will be provided here soon. Dear Students and Teachers! From
-The post AP 8th Class Textbooks 2022-23 PDF (New) AP SCERT Class VIII EM/TM Text Books All Subjects appeared first on Schools360.in.]]></summary>
+        <title type="html"><![CDATA[RML Hospital Recruitment 2022 Walk-in for 155 Junior Resident Vacancy]]></title>
+        <id>https://wordpress-625465-2031528.cloudwaysapps.com/?p=56590</id>
+        <link href="https://www.schools360.in/rml-hospital-notification/"/>
+        <updated>2022-06-18T17:05:29.000Z</updated>
+        <summary type="html"><![CDATA[Dr. Ram Manohar Lohia Hospital RML Hospital conducting Walk-in-interview for the recruitment of the posts of 155 Junior residents under RML Hospital Recruitment. All Eligible and Interested applicants may attend Walk-in-interview on 24th June 2022. other Details Like education qualification, age limit, selection process, application fee & how to apply, important links, syllabus, admit cards,
+The post RML Hospital Recruitment 2022 Walk-in for 155 Junior Resident Vacancy appeared first on Schools360.in.]]></summary>
         <author>
             <name>Schools 360</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AP 8th Class Textbooks 2022-23 PDF (New) AP SCERT Class VIII EM/TM Text Books All Subjects]]></title>
-        <id>https://wordpress-625465-2031528.cloudwaysapps.com/?p=66557</id>
-        <link href="https://www.schools360.in/ap-scert-8th-class-textbooks-download-em-tm-all-subjects-pdf/"/>
-        <updated>2022-06-17T17:26:27.000Z</updated>
-        <summary type="html"><![CDATA[AP SCERT 8th Class All Subjects Textbooks and Teachers Hand Guides are Available Here. So all Students who are studying Class VIII can Download the English Medium or Telugu Medium Text Books from the below links. You can Prepare for 8th Class through workbooks which will be provided here soon. Dear Students and Teachers! From
-The post AP 8th Class Textbooks 2022-23 PDF (New) AP SCERT Class VIII EM/TM Text Books All Subjects appeared first on Schools360.in.]]></summary>
+        <title type="html"><![CDATA[RML Hospital Recruitment 2022 Walk-in for 155 Junior Resident Vacancy]]></title>
+        <id>https://wordpress-625465-2031528.cloudwaysapps.com/?p=56590</id>
+        <link href="https://www.schools360.in/rml-hospital-notification/"/>
+        <updated>2022-06-18T17:05:29.000Z</updated>
+        <summary type="html"><![CDATA[Dr. Ram Manohar Lohia Hospital RML Hospital conducting Walk-in-interview for the recruitment of the posts of 155 Junior residents under RML Hospital Recruitment. All Eligible and Interested applicants may attend Walk-in-interview on 24th June 2022. other Details Like education qualification, age limit, selection process, application fee & how to apply, important links, syllabus, admit cards,
+The post RML Hospital Recruitment 2022 Walk-in for 155 Junior Resident Vacancy appeared first on Schools360.in.]]></summary>
         <author>
             <name>Schools 360</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AP POLYCET Results 2022 (Released) AP Polycet Rank Card Download Manabadi Polycetap.nic.in]]></title>
-        <id>https://wordpress-625465-2031528.cloudwaysapps.com/?p=17440</id>
-        <link href="https://www.schools360.in/ap-polycet-results-2022/"/>
-        <updated>2022-06-17T17:25:02.000Z</updated>
-        <summary type="html"><![CDATA[AP POLYCET Results 2022 @ Polycetap.nic.in – AP Polycet Results, Cutoff Marks, Rank Card, Counselling 2022: Andhra Pradesh Polytechnic Entrance Exam Results are declared on June 18th, 2022 at 9.15 AM on its official site polycetap.nic.in, manabadi.com. Andhra Pradesh State Board of Technical Education training  SBTET has declared AP Polycet results 2022 on its official website Sbtet polycetap.nic.in.
-The post AP POLYCET Results 2022 (Released) AP Polycet Rank Card Download Manabadi Polycetap.nic.in appeared first on Schools360.in.]]></summary>
+        <title type="html"><![CDATA[TSNPDCL AE Recruitment 2022 Apply 82 Assistant Engineer Vacancies]]></title>
+        <id>https://www.schools360.in/?p=187736</id>
+        <link href="https://www.schools360.in/tsnpdcl-ae-recruitment/"/>
+        <updated>2022-06-18T16:54:16.000Z</updated>
+        <summary type="html"><![CDATA[Northern Power Distribution Company of Telangana Limited invites candidates to apply Online for the posts of Assistant Engineer having full qualification for these posts. The detailed information of the candidates who have applied Online for TSNPDCL Assistant Engineer Recruitment 2022 is given below. TSNPDCL Recruitment 2022 Apply for 82 Assistant Engineer Vacancies TSNPDCL Assistant Engineer
+The post TSNPDCL AE Recruitment 2022 Apply 82 Assistant Engineer Vacancies appeared first on Schools360.in.]]></summary>
         <author>
             <name>Schools 360</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AP POLYCET Results 2022 (Released) AP Polycet Rank Card Download Manabadi Polycetap.nic.in]]></title>
-        <id>https://wordpress-625465-2031528.cloudwaysapps.com/?p=17440</id>
-        <link href="https://www.schools360.in/ap-polycet-results-2022/"/>
-        <updated>2022-06-17T17:25:02.000Z</updated>
-        <summary type="html"><![CDATA[AP POLYCET Results 2022 @ Polycetap.nic.in – AP Polycet Results, Cutoff Marks, Rank Card, Counselling 2022: Andhra Pradesh Polytechnic Entrance Exam Results are declared on June 18th, 2022 at 9.15 AM on its official site polycetap.nic.in, manabadi.com. Andhra Pradesh State Board of Technical Education training  SBTET has declared AP Polycet results 2022 on its official website Sbtet polycetap.nic.in.
-The post AP POLYCET Results 2022 (Released) AP Polycet Rank Card Download Manabadi Polycetap.nic.in appeared first on Schools360.in.]]></summary>
+        <title type="html"><![CDATA[TSNPDCL AE Recruitment 2022 Apply 82 Assistant Engineer Vacancies]]></title>
+        <id>https://www.schools360.in/?p=187736</id>
+        <link href="https://www.schools360.in/tsnpdcl-ae-recruitment/"/>
+        <updated>2022-06-18T16:54:16.000Z</updated>
+        <summary type="html"><![CDATA[Northern Power Distribution Company of Telangana Limited invites candidates to apply Online for the posts of Assistant Engineer having full qualification for these posts. The detailed information of the candidates who have applied Online for TSNPDCL Assistant Engineer Recruitment 2022 is given below. TSNPDCL Recruitment 2022 Apply for 82 Assistant Engineer Vacancies TSNPDCL Assistant Engineer
+The post TSNPDCL AE Recruitment 2022 Apply 82 Assistant Engineer Vacancies appeared first on Schools360.in.]]></summary>
         <author>
             <name>Schools 360</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AP POLYCET Results 2022 (Released) AP Polycet Rank Card Download Manabadi Polycetap.nic.in]]></title>
-        <id>https://wordpress-625465-2031528.cloudwaysapps.com/?p=17440</id>
-        <link href="https://www.schools360.in/ap-polycet-results-2022/"/>
-        <updated>2022-06-17T17:25:02.000Z</updated>
-        <summary type="html"><![CDATA[AP POLYCET Results 2022 @ Polycetap.nic.in – AP Polycet Results, Cutoff Marks, Rank Card, Counselling 2022: Andhra Pradesh Polytechnic Entrance Exam Results are declared on June 18th, 2022 at 9.15 AM on its official site polycetap.nic.in, manabadi.com. Andhra Pradesh State Board of Technical Education training  SBTET has declared AP Polycet results 2022 on its official website Sbtet polycetap.nic.in.
-The post AP POLYCET Results 2022 (Released) AP Polycet Rank Card Download Manabadi Polycetap.nic.in appeared first on Schools360.in.]]></summary>
+        <title type="html"><![CDATA[TSNPDCL AE Recruitment 2022 Apply 82 Assistant Engineer Vacancies]]></title>
+        <id>https://www.schools360.in/?p=187736</id>
+        <link href="https://www.schools360.in/tsnpdcl-ae-recruitment/"/>
+        <updated>2022-06-18T16:54:16.000Z</updated>
+        <summary type="html"><![CDATA[Northern Power Distribution Company of Telangana Limited invites candidates to apply Online for the posts of Assistant Engineer having full qualification for these posts. The detailed information of the candidates who have applied Online for TSNPDCL Assistant Engineer Recruitment 2022 is given below. TSNPDCL Recruitment 2022 Apply for 82 Assistant Engineer Vacancies TSNPDCL Assistant Engineer
+The post TSNPDCL AE Recruitment 2022 Apply 82 Assistant Engineer Vacancies appeared first on Schools360.in.]]></summary>
         <author>
             <name>Schools 360</name>
         </author>
