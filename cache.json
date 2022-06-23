@@ -6,12 +6,22 @@
       "siteUrl": "https://github.com/osmoscraft/osmosfeed/releases",
       "articles": [
         {
+          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.15.1",
+          "author": null,
+          "description": "Fixed: Favicon used as article image",
+          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.15.1",
+          "publishedOn": "2022-06-22T06:05:35.000Z",
+          "wordCount": 263,
+          "title": "v1.15.1",
+          "imageUrl": "https://opengraph.githubassets.com/773fe75a9ebd447ce664e0a73ba1ff89839c8a12b901abc4891691fbafe17c19/osmoscraft/osmosfeed/releases/tag/v1.15.1"
+        },
+        {
           "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.15.0",
           "author": null,
           "description": "Added: Resolve relative URLs in item link and media\nAdded: Item thumbnail fallback to channel thumbnail\nChore: Dependency updates\nThank you: @cpwnd",
           "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.15.0",
           "publishedOn": "2022-06-18T19:01:33.000Z",
-          "wordCount": 281,
+          "wordCount": 279,
           "title": "v1.15.0",
           "imageUrl": "https://opengraph.githubassets.com/ce00272fbcf40921811c2125a0228c3b60c8a0b083dbaf2601960d034cc3be27/osmoscraft/osmosfeed/releases/tag/v1.15.0"
         }
@@ -23,34 +33,34 @@
       "siteUrl": "https://www.schools360.in",
       "articles": [
         {
-          "id": "https://wordpress-625465-2031528.cloudwaysapps.com/?p=39695",
+          "id": "https://wordpress-625465-2031528.cloudwaysapps.com/?p=33355",
           "author": "Schools 360",
-          "description": "AP 1st Year Inter Results 2022 Eenadu Manabadi AP Eenadu First Year Results: The Board of Intermediate Education Andhra Pradesh, (BIEAP) will announce the AP Inter 1st Year Results 2022 on  June 22,  2022. Once the Results were out, The mark sheets and Grades will also Available on the website of Andhra Board, i.e. bieap.gov.in\nThe post AP Inter 1st Year Results 2022 (Link) Manabadi Junior Intermediate Results, Grades, Marks @bieap.gov.in appeared first on Schools360.in.",
-          "link": "https://www.schools360.in/ap-inter-1st-year-result/",
-          "publishedOn": "2022-06-21T17:17:11.000Z",
-          "wordCount": 3791,
-          "title": "AP Inter 1st Year Results 2022 (Link) Manabadi Junior Intermediate Results, Grades, Marks @bieap.gov.in",
-          "imageUrl": "https://www.schools360.in/wp-content/uploads/2019/10/favicon-1.ico"
+          "description": "WBSCTE Diploma 5th Sem Result 2022 @ webscte.org | Check West Bengal Polytechnic RESULT OF DIPLOMA IN ENGG. & TECH. / PHARMACY / HMCT EXAM: West Bengal State Council of Technical Education has Declared the WBSCTE Polytechnic Result 2022 for the Semester Exams, 1st, 2nd, 3rd, 4th, 5th, 6th  held in March 2022. Number of\nThe post WBSCTE Diploma 5th Sem Results 2022 (OUT) WB 2nd,5th Sem Polytechnic Result @webscte.org appeared first on Schools360.in.",
+          "link": "https://www.schools360.in/wbscte-diploma-results/",
+          "publishedOn": "2022-06-22T17:21:15.000Z",
+          "wordCount": 3391,
+          "title": "WBSCTE Diploma 5th Sem Results 2022 (OUT) WB 2nd,5th Sem Polytechnic Result @webscte.org",
+          "imageUrl": "https://www.schools360.in/wp-content/uploads/2019/01/WBSCTE-Polytechnic-Diploma-.jpg"
         },
         {
-          "id": "https://wordpress-625465-2031528.cloudwaysapps.com/?p=39698",
+          "id": "https://wordpress-625465-2031528.cloudwaysapps.com/?p=1888",
           "author": "Schools 360",
-          "description": "AP Inter II Year Results 2022: Andhra Pradesh board of intermediate education BIEAP was released Inter Second Year Results 2022 on June 22, 2022. In the May 2022, 4,80,720 students appear for the inter second year exams. Board of intermediate examination conducted annual examination to students of 12th standard every year in the month of\nThe post AP Inter 2nd Year Results 2022 (OUT) Manabadi AP Senior Inter Result, Marks, Grades @bieap.gov.in appeared first on Schools360.in.",
-          "link": "https://www.schools360.in/ap-inter-2nd-year-result/",
-          "publishedOn": "2022-06-21T17:16:17.000Z",
-          "wordCount": 3652,
-          "title": "AP Inter 2nd Year Results 2022 (OUT) Manabadi AP Senior Inter Result, Marks, Grades @bieap.gov.in",
-          "imageUrl": "https://www.schools360.in/wp-content/uploads/2019/10/favicon-1.ico"
+          "description": "APOSS SSC Result 2022 @ apopenschool.org: The Andhra Pradesh Open School Society conducts the Open 10th Public examinations every year. This year also conduct the APOSS 10th  examinations from 27th April to 06th May 2022 to provide better higher education. The Officials of APOSS Conducted the open SSC examinations as per the exam schedule. Maximum\nThe post APOSS SSC Results 2022 (Here) AP Open School 10th Results Manabadi @apopenschool.org appeared first on Schools360.in.",
+          "link": "https://www.schools360.in/ap-open-school-society-aposs-10th-inter-results-april-2017-declared-check/",
+          "publishedOn": "2022-06-22T17:04:19.000Z",
+          "wordCount": 3901,
+          "title": "APOSS SSC Results 2022 (Here) AP Open School 10th Results Manabadi @apopenschool.org",
+          "imageUrl": "https://www.schools360.in/wp-content/uploads/2017/04/APPSC.jpg"
         },
         {
-          "id": "https://wordpress-625465-2031528.cloudwaysapps.com/?p=15575",
+          "id": "https://www.schools360.in/?p=188075",
           "author": "Schools 360",
-          "description": "BIE AP – Jnanabhumi  Manabadi Inter 1st Year Results 2022: ఇంటర్ సప్లిమెంటరీ మొదటి సంవత్సర పరీక్షా ఫలితాలు  Board of Intermediate Education Andhra Pradesh (BIE AP) is conducting Intermediate Examinations from During May 2022. AP Inter Time Table 2022 can be get from here. AP Inter First Year Results 2022 will be Declared on 22nd June 2022.\nThe post AP Inter 1st Year Results 2022 (లింక్) Manabadi BIEAP Intermediate First Year Result, Marks appeared first on Schools360.in.",
-          "link": "https://www.schools360.in/ap-inter-1st-year-results-2019/",
-          "publishedOn": "2022-06-21T17:14:35.000Z",
-          "wordCount": 3733,
-          "title": "AP Inter 1st Year Results 2022 (లింక్) Manabadi BIEAP Intermediate First Year Result, Marks",
-          "imageUrl": "https://www.schools360.in/wp-content/uploads/2019/10/favicon-1.ico"
+          "description": "The National Testing Agency (NTA) has Released a Complete Schedule of Central Universities Common Entrance Test (CUET) exam 2022 for various undergraduate courses in the country. In the official notification issued by NTA, the CUET UG 2022 exam will be conducted on July 15, 16, 19, 20 and August 4, 5, 6, 7, 8 and\nThe post CUET-UG 2022 from July 15; NTA will Reopen Registrations and Admit Card Soon appeared first on Schools360.in.",
+          "link": "https://www.schools360.in/cuet-ug-2022-from-july-15-nta-will-reopen-registrations-and-admit-card-soon/",
+          "publishedOn": "2022-06-22T16:55:54.000Z",
+          "wordCount": 3017,
+          "title": "CUET-UG 2022 from July 15; NTA will Reopen Registrations and Admit Card Soon",
+          "imageUrl": "https://www.schools360.in/wp-content/uploads/2022/04/CUET-UG.jpg"
         }
       ]
     },
@@ -60,34 +70,34 @@
       "siteUrl": "https://www.schools360.in",
       "articles": [
         {
-          "id": "https://wordpress-625465-2031528.cloudwaysapps.com/?p=39695",
+          "id": "https://wordpress-625465-2031528.cloudwaysapps.com/?p=33355",
           "author": "Schools 360",
-          "description": "AP 1st Year Inter Results 2022 Eenadu Manabadi AP Eenadu First Year Results: The Board of Intermediate Education Andhra Pradesh, (BIEAP) will announce the AP Inter 1st Year Results 2022 on  June 22,  2022. Once the Results were out, The mark sheets and Grades will also Available on the website of Andhra Board, i.e. bieap.gov.in\nThe post AP Inter 1st Year Results 2022 (Link) Manabadi Junior Intermediate Results, Grades, Marks @bieap.gov.in appeared first on Schools360.in.",
-          "link": "https://www.schools360.in/ap-inter-1st-year-result/",
-          "publishedOn": "2022-06-21T17:17:11.000Z",
-          "wordCount": 3791,
-          "title": "AP Inter 1st Year Results 2022 (Link) Manabadi Junior Intermediate Results, Grades, Marks @bieap.gov.in",
-          "imageUrl": "https://www.schools360.in/wp-content/uploads/2019/10/favicon-1.ico"
+          "description": "WBSCTE Diploma 5th Sem Result 2022 @ webscte.org | Check West Bengal Polytechnic RESULT OF DIPLOMA IN ENGG. & TECH. / PHARMACY / HMCT EXAM: West Bengal State Council of Technical Education has Declared the WBSCTE Polytechnic Result 2022 for the Semester Exams, 1st, 2nd, 3rd, 4th, 5th, 6th  held in March 2022. Number of\nThe post WBSCTE Diploma 5th Sem Results 2022 (OUT) WB 2nd,5th Sem Polytechnic Result @webscte.org appeared first on Schools360.in.",
+          "link": "https://www.schools360.in/wbscte-diploma-results/",
+          "publishedOn": "2022-06-22T17:21:15.000Z",
+          "wordCount": 3391,
+          "title": "WBSCTE Diploma 5th Sem Results 2022 (OUT) WB 2nd,5th Sem Polytechnic Result @webscte.org",
+          "imageUrl": "https://www.schools360.in/wp-content/uploads/2019/01/WBSCTE-Polytechnic-Diploma-.jpg"
         },
         {
-          "id": "https://wordpress-625465-2031528.cloudwaysapps.com/?p=39698",
+          "id": "https://wordpress-625465-2031528.cloudwaysapps.com/?p=1888",
           "author": "Schools 360",
-          "description": "AP Inter II Year Results 2022: Andhra Pradesh board of intermediate education BIEAP was released Inter Second Year Results 2022 on June 22, 2022. In the May 2022, 4,80,720 students appear for the inter second year exams. Board of intermediate examination conducted annual examination to students of 12th standard every year in the month of\nThe post AP Inter 2nd Year Results 2022 (OUT) Manabadi AP Senior Inter Result, Marks, Grades @bieap.gov.in appeared first on Schools360.in.",
-          "link": "https://www.schools360.in/ap-inter-2nd-year-result/",
-          "publishedOn": "2022-06-21T17:16:17.000Z",
-          "wordCount": 3652,
-          "title": "AP Inter 2nd Year Results 2022 (OUT) Manabadi AP Senior Inter Result, Marks, Grades @bieap.gov.in",
-          "imageUrl": "https://www.schools360.in/wp-content/uploads/2019/10/favicon-1.ico"
+          "description": "APOSS SSC Result 2022 @ apopenschool.org: The Andhra Pradesh Open School Society conducts the Open 10th Public examinations every year. This year also conduct the APOSS 10th  examinations from 27th April to 06th May 2022 to provide better higher education. The Officials of APOSS Conducted the open SSC examinations as per the exam schedule. Maximum\nThe post APOSS SSC Results 2022 (Here) AP Open School 10th Results Manabadi @apopenschool.org appeared first on Schools360.in.",
+          "link": "https://www.schools360.in/ap-open-school-society-aposs-10th-inter-results-april-2017-declared-check/",
+          "publishedOn": "2022-06-22T17:04:19.000Z",
+          "wordCount": 3901,
+          "title": "APOSS SSC Results 2022 (Here) AP Open School 10th Results Manabadi @apopenschool.org",
+          "imageUrl": "https://www.schools360.in/wp-content/uploads/2017/04/APPSC.jpg"
         },
         {
-          "id": "https://wordpress-625465-2031528.cloudwaysapps.com/?p=15575",
+          "id": "https://www.schools360.in/?p=188075",
           "author": "Schools 360",
-          "description": "BIE AP – Jnanabhumi  Manabadi Inter 1st Year Results 2022: ఇంటర్ సప్లిమెంటరీ మొదటి సంవత్సర పరీక్షా ఫలితాలు  Board of Intermediate Education Andhra Pradesh (BIE AP) is conducting Intermediate Examinations from During May 2022. AP Inter Time Table 2022 can be get from here. AP Inter First Year Results 2022 will be Declared on 22nd June 2022.\nThe post AP Inter 1st Year Results 2022 (లింక్) Manabadi BIEAP Intermediate First Year Result, Marks appeared first on Schools360.in.",
-          "link": "https://www.schools360.in/ap-inter-1st-year-results-2019/",
-          "publishedOn": "2022-06-21T17:14:35.000Z",
-          "wordCount": 3733,
-          "title": "AP Inter 1st Year Results 2022 (లింక్) Manabadi BIEAP Intermediate First Year Result, Marks",
-          "imageUrl": "https://www.schools360.in/wp-content/uploads/2019/10/favicon-1.ico"
+          "description": "The National Testing Agency (NTA) has Released a Complete Schedule of Central Universities Common Entrance Test (CUET) exam 2022 for various undergraduate courses in the country. In the official notification issued by NTA, the CUET UG 2022 exam will be conducted on July 15, 16, 19, 20 and August 4, 5, 6, 7, 8 and\nThe post CUET-UG 2022 from July 15; NTA will Reopen Registrations and Admit Card Soon appeared first on Schools360.in.",
+          "link": "https://www.schools360.in/cuet-ug-2022-from-july-15-nta-will-reopen-registrations-and-admit-card-soon/",
+          "publishedOn": "2022-06-22T16:55:54.000Z",
+          "wordCount": 3017,
+          "title": "CUET-UG 2022 from July 15; NTA will Reopen Registrations and Admit Card Soon",
+          "imageUrl": "https://www.schools360.in/wp-content/uploads/2022/04/CUET-UG.jpg"
         }
       ]
     },
@@ -97,37 +107,37 @@
       "siteUrl": "https://www.schools360.in",
       "articles": [
         {
-          "id": "https://wordpress-625465-2031528.cloudwaysapps.com/?p=39695",
+          "id": "https://wordpress-625465-2031528.cloudwaysapps.com/?p=33355",
           "author": "Schools 360",
-          "description": "AP 1st Year Inter Results 2022 Eenadu Manabadi AP Eenadu First Year Results: The Board of Intermediate Education Andhra Pradesh, (BIEAP) will announce the AP Inter 1st Year Results 2022 on  June 22,  2022. Once the Results were out, The mark sheets and Grades will also Available on the website of Andhra Board, i.e. bieap.gov.in\nThe post AP Inter 1st Year Results 2022 (Link) Manabadi Junior Intermediate Results, Grades, Marks @bieap.gov.in appeared first on Schools360.in.",
-          "link": "https://www.schools360.in/ap-inter-1st-year-result/",
-          "publishedOn": "2022-06-21T17:17:11.000Z",
-          "wordCount": 3791,
-          "title": "AP Inter 1st Year Results 2022 (Link) Manabadi Junior Intermediate Results, Grades, Marks @bieap.gov.in",
-          "imageUrl": "https://www.schools360.in/wp-content/uploads/2019/10/favicon-1.ico"
+          "description": "WBSCTE Diploma 5th Sem Result 2022 @ webscte.org | Check West Bengal Polytechnic RESULT OF DIPLOMA IN ENGG. & TECH. / PHARMACY / HMCT EXAM: West Bengal State Council of Technical Education has Declared the WBSCTE Polytechnic Result 2022 for the Semester Exams, 1st, 2nd, 3rd, 4th, 5th, 6th  held in March 2022. Number of\nThe post WBSCTE Diploma 5th Sem Results 2022 (OUT) WB 2nd,5th Sem Polytechnic Result @webscte.org appeared first on Schools360.in.",
+          "link": "https://www.schools360.in/wbscte-diploma-results/",
+          "publishedOn": "2022-06-22T17:21:15.000Z",
+          "wordCount": 3391,
+          "title": "WBSCTE Diploma 5th Sem Results 2022 (OUT) WB 2nd,5th Sem Polytechnic Result @webscte.org",
+          "imageUrl": "https://www.schools360.in/wp-content/uploads/2019/01/WBSCTE-Polytechnic-Diploma-.jpg"
         },
         {
-          "id": "https://wordpress-625465-2031528.cloudwaysapps.com/?p=39698",
+          "id": "https://wordpress-625465-2031528.cloudwaysapps.com/?p=1888",
           "author": "Schools 360",
-          "description": "AP Inter II Year Results 2022: Andhra Pradesh board of intermediate education BIEAP was released Inter Second Year Results 2022 on June 22, 2022. In the May 2022, 4,80,720 students appear for the inter second year exams. Board of intermediate examination conducted annual examination to students of 12th standard every year in the month of\nThe post AP Inter 2nd Year Results 2022 (OUT) Manabadi AP Senior Inter Result, Marks, Grades @bieap.gov.in appeared first on Schools360.in.",
-          "link": "https://www.schools360.in/ap-inter-2nd-year-result/",
-          "publishedOn": "2022-06-21T17:16:17.000Z",
-          "wordCount": 3652,
-          "title": "AP Inter 2nd Year Results 2022 (OUT) Manabadi AP Senior Inter Result, Marks, Grades @bieap.gov.in",
-          "imageUrl": "https://www.schools360.in/wp-content/uploads/2019/10/favicon-1.ico"
+          "description": "APOSS SSC Result 2022 @ apopenschool.org: The Andhra Pradesh Open School Society conducts the Open 10th Public examinations every year. This year also conduct the APOSS 10th  examinations from 27th April to 06th May 2022 to provide better higher education. The Officials of APOSS Conducted the open SSC examinations as per the exam schedule. Maximum\nThe post APOSS SSC Results 2022 (Here) AP Open School 10th Results Manabadi @apopenschool.org appeared first on Schools360.in.",
+          "link": "https://www.schools360.in/ap-open-school-society-aposs-10th-inter-results-april-2017-declared-check/",
+          "publishedOn": "2022-06-22T17:04:19.000Z",
+          "wordCount": 3901,
+          "title": "APOSS SSC Results 2022 (Here) AP Open School 10th Results Manabadi @apopenschool.org",
+          "imageUrl": "https://www.schools360.in/wp-content/uploads/2017/04/APPSC.jpg"
         },
         {
-          "id": "https://wordpress-625465-2031528.cloudwaysapps.com/?p=15575",
+          "id": "https://www.schools360.in/?p=188075",
           "author": "Schools 360",
-          "description": "BIE AP – Jnanabhumi  Manabadi Inter 1st Year Results 2022: ఇంటర్ సప్లిమెంటరీ మొదటి సంవత్సర పరీక్షా ఫలితాలు  Board of Intermediate Education Andhra Pradesh (BIE AP) is conducting Intermediate Examinations from During May 2022. AP Inter Time Table 2022 can be get from here. AP Inter First Year Results 2022 will be Declared on 22nd June 2022.\nThe post AP Inter 1st Year Results 2022 (లింక్) Manabadi BIEAP Intermediate First Year Result, Marks appeared first on Schools360.in.",
-          "link": "https://www.schools360.in/ap-inter-1st-year-results-2019/",
-          "publishedOn": "2022-06-21T17:14:35.000Z",
-          "wordCount": 3733,
-          "title": "AP Inter 1st Year Results 2022 (లింక్) Manabadi BIEAP Intermediate First Year Result, Marks",
-          "imageUrl": "https://www.schools360.in/wp-content/uploads/2019/10/favicon-1.ico"
+          "description": "The National Testing Agency (NTA) has Released a Complete Schedule of Central Universities Common Entrance Test (CUET) exam 2022 for various undergraduate courses in the country. In the official notification issued by NTA, the CUET UG 2022 exam will be conducted on July 15, 16, 19, 20 and August 4, 5, 6, 7, 8 and\nThe post CUET-UG 2022 from July 15; NTA will Reopen Registrations and Admit Card Soon appeared first on Schools360.in.",
+          "link": "https://www.schools360.in/cuet-ug-2022-from-july-15-nta-will-reopen-registrations-and-admit-card-soon/",
+          "publishedOn": "2022-06-22T16:55:54.000Z",
+          "wordCount": 3017,
+          "title": "CUET-UG 2022 from July 15; NTA will Reopen Registrations and Admit Card Soon",
+          "imageUrl": "https://www.schools360.in/wp-content/uploads/2022/04/CUET-UG.jpg"
         }
       ]
     }
   ],
-  "cliVersion": "1.15.0"
+  "cliVersion": "1.15.1"
 }
