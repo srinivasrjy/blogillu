@@ -4,16 +4,42 @@
       "title": "Release notes from osmosfeed",
       "feedUrl": "https://github.com/osmoscraft/osmosfeed/releases.atom",
       "siteUrl": "https://github.com/osmoscraft/osmosfeed/releases",
+      "articles": []
+    },
+    {
+      "title": "Schools360.in",
+      "feedUrl": "https://www.schools360.in/feed/",
+      "siteUrl": "https://www.schools360.in/",
       "articles": [
         {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.15.1",
-          "author": null,
-          "description": "Fixed: Favicon used as article image",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.15.1",
-          "publishedOn": "2022-06-22T06:05:35.000Z",
-          "wordCount": 267,
-          "title": "v1.15.1",
-          "imageUrl": "https://opengraph.githubassets.com/773fe75a9ebd447ce664e0a73ba1ff89839c8a12b901abc4891691fbafe17c19/osmoscraft/osmosfeed/releases/tag/v1.15.1"
+          "id": "https://www.schools360.in/?p=165126",
+          "author": "Schools 360",
+          "description": "The National Health Mission (NHM), Uttar Pradesh invites online applications from eligible candidates for approximately 5505 contractual vacancies. This is a part of initiative Under the Ayushman Bharat Scheme, GoUP envisioned to strengthen Sub-Health Centers as Health and Wellness Centers (HWCs) for improved implementation of public health programs and to enable comprehensive primary healthcare service\nThe post NHM UP CHO Recruitment 2022 Apply 5505 Community Health Officer Vacancy appeared first on Schools360.in.",
+          "link": "https://www.schools360.in/nhm-up-cho-recruitment/",
+          "publishedOn": "2022-07-21T17:06:29.000Z",
+          "wordCount": 3953,
+          "title": "NHM UP CHO Recruitment 2022 Apply 5505 Community Health Officer Vacancy",
+          "imageUrl": "https://www.schools360.in/wp-content/uploads/2017/10/nhm.jpg"
+        },
+        {
+          "id": "https://www.schools360.in/?p=189868",
+          "author": "Schools 360",
+          "description": "Central Recruitment Board on behalf of Bodoland Territorial Region, Assam invites candidates to apply Offline for the posts of Veterinary Field Assistant having full qualifications for these posts. The detailed information of the candidates who have applied Offline for BTR Veterinary Field Assistant Recruitment 2022 is given below. BTR Recruitment 2022 – Apply Offline for\nThe post BTR Veterinary Field Assistant Recruitment 2022 Apply for 78 Vacancy appeared first on Schools360.in.",
+          "link": "https://www.schools360.in/btr-veterinary-field-assistant-recruitment/",
+          "publishedOn": "2022-07-21T16:57:17.000Z",
+          "wordCount": 3306,
+          "title": "BTR Veterinary Field Assistant Recruitment 2022 Apply for 78 Vacancy",
+          "imageUrl": "https://www.schools360.in/wp-content/uploads/2021/01/assam-govt-jobs.jpg"
+        },
+        {
+          "id": "https://www.schools360.in/?p=189865",
+          "author": "Maheshari Yerra",
+          "description": "PUTHAT Answer Key 2022 (Released on July 20) PUTHAT Answer Key 2022 has Declared on July 20th, 2022. Check PUTHAT Exam Key, Objections @ puthat.puchd.ac.in. Punjab University has declared the PUTHAT Answer Key 2022 in online. PUTHAT stands for Panjab University Tourism & Hospitality Aptitude Test. So the candidates who had appeared for the PUTHAT\nThe post PUTHAT Answer Key 2022 (Released) PUTHAT Exam key, Objections Download @ puthat.puchd.ac.in appeared first on Schools360.in.",
+          "link": "https://www.schools360.in/puthat-answer-key/",
+          "publishedOn": "2022-07-21T12:51:12.000Z",
+          "wordCount": 3257,
+          "title": "PUTHAT Answer Key 2022 (Released) PUTHAT Exam key, Objections Download @ puthat.puchd.ac.in",
+          "imageUrl": "https://www.schools360.in/wp-content/uploads/2019/04/Panjab-University.jpg"
         }
       ]
     },
@@ -23,34 +49,34 @@
       "siteUrl": "https://www.schools360.in/",
       "articles": [
         {
-          "id": "https://wordpress-625465-2031528.cloudwaysapps.com/?p=150544",
+          "id": "https://www.schools360.in/?p=165126",
           "author": "Schools 360",
-          "description": "National Institutional Ranking Framework (NIRF) has been Released for the Year 2022. The following are the Top Engineering Colleges with Rankings. The NIRF ranking 2022 was released on June 11 by union education minister Ramesh Pokhriyal ‘Nishank’. NIRF Rankings 2022 Top IITs and Best 300 Engineering Colleges in India – Engineering Rank Name State Score\nThe post Top 300 Engineering Colleges in India 2022 NIRF Ranking Total List appeared first on Schools360.in.",
-          "link": "https://www.schools360.in/nirf-2020-rankings/",
-          "publishedOn": "2022-07-20T18:48:00.000Z",
-          "wordCount": 5684,
-          "title": "Top 300 Engineering Colleges in India 2022 NIRF Ranking Total List",
-          "imageUrl": "https://www.schools360.in/wp-content/uploads/2021/11/NIRF-ranking-2022.jpg"
+          "description": "The National Health Mission (NHM), Uttar Pradesh invites online applications from eligible candidates for approximately 5505 contractual vacancies. This is a part of initiative Under the Ayushman Bharat Scheme, GoUP envisioned to strengthen Sub-Health Centers as Health and Wellness Centers (HWCs) for improved implementation of public health programs and to enable comprehensive primary healthcare service\nThe post NHM UP CHO Recruitment 2022 Apply 5505 Community Health Officer Vacancy appeared first on Schools360.in.",
+          "link": "https://www.schools360.in/nhm-up-cho-recruitment/",
+          "publishedOn": "2022-07-21T17:06:29.000Z",
+          "wordCount": 3953,
+          "title": "NHM UP CHO Recruitment 2022 Apply 5505 Community Health Officer Vacancy",
+          "imageUrl": "https://www.schools360.in/wp-content/uploads/2017/10/nhm.jpg"
         },
         {
-          "id": "https://www.schools360.in/?p=174141",
+          "id": "https://www.schools360.in/?p=189868",
           "author": "Schools 360",
-          "description": "PPSC Recruitment 2022 – 418 Veterinary Officer Vacancy: Punjab Public Service Commission (PPSC) has recently Published Recruitment Notification or an Employment News for the recruitment of 418 Veterinary Officer Vacancies. Candidates who’re eligible for this Recruitment & are to Apply for this Posts these Eligible Aspirants Can Apply Online earlier than 27/07/2022. It’s a Very Good Alternative\nThe post PPSC Veterinary Officer Recruitment 2022 Apply for 418 Posts before July 27 appeared first on Schools360.in.",
-          "link": "https://www.schools360.in/ppsc-veterinary-officer-recruitment/",
-          "publishedOn": "2022-07-20T18:28:22.000Z",
-          "wordCount": 3547,
-          "title": "PPSC Veterinary Officer Recruitment 2022 Apply for 418 Posts before July 27",
-          "imageUrl": "https://www.schools360.in/wp-content/uploads/2019/12/DHAJ-Punjab.png"
+          "description": "Central Recruitment Board on behalf of Bodoland Territorial Region, Assam invites candidates to apply Offline for the posts of Veterinary Field Assistant having full qualifications for these posts. The detailed information of the candidates who have applied Offline for BTR Veterinary Field Assistant Recruitment 2022 is given below. BTR Recruitment 2022 – Apply Offline for\nThe post BTR Veterinary Field Assistant Recruitment 2022 Apply for 78 Vacancy appeared first on Schools360.in.",
+          "link": "https://www.schools360.in/btr-veterinary-field-assistant-recruitment/",
+          "publishedOn": "2022-07-21T16:57:17.000Z",
+          "wordCount": 3306,
+          "title": "BTR Veterinary Field Assistant Recruitment 2022 Apply for 78 Vacancy",
+          "imageUrl": "https://www.schools360.in/wp-content/uploads/2021/01/assam-govt-jobs.jpg"
         },
         {
-          "id": "https://wordpress-625465-2031528.cloudwaysapps.com/?p=66283",
-          "author": "Schools 360",
-          "description": "Central Ground Water Board is Today Released a Special Notification to Recruit 26 vacancies of Drivers.  CGWB invites offline applications for recruitment of 26 posts of Staff Car Driver (Ordinary Grade) Group-‘C’ (Ministerial, Non-Gazetted), temporary but likely to continue in Central Ground Water, Ministry of Jal Shakti, Department of Water Resources, River Development and Ganga\nThe post CGWB Recruitment 2022 Apply 26 Staff Car Driver Vacancy appeared first on Schools360.in.",
-          "link": "https://www.schools360.in/cgwb-recruitment/",
-          "publishedOn": "2022-07-20T18:22:37.000Z",
-          "wordCount": 3789,
-          "title": "CGWB Recruitment 2022 Apply 26 Staff Car Driver Vacancy",
-          "imageUrl": "https://www.schools360.in/wp-content/uploads/2017/09/cgwb.jpg"
+          "id": "https://www.schools360.in/?p=189865",
+          "author": "Maheshari Yerra",
+          "description": "PUTHAT Answer Key 2022 (Released on July 20) PUTHAT Answer Key 2022 has Declared on July 20th, 2022. Check PUTHAT Exam Key, Objections @ puthat.puchd.ac.in. Punjab University has declared the PUTHAT Answer Key 2022 in online. PUTHAT stands for Panjab University Tourism & Hospitality Aptitude Test. So the candidates who had appeared for the PUTHAT\nThe post PUTHAT Answer Key 2022 (Released) PUTHAT Exam key, Objections Download @ puthat.puchd.ac.in appeared first on Schools360.in.",
+          "link": "https://www.schools360.in/puthat-answer-key/",
+          "publishedOn": "2022-07-21T12:51:12.000Z",
+          "wordCount": 3257,
+          "title": "PUTHAT Answer Key 2022 (Released) PUTHAT Exam key, Objections Download @ puthat.puchd.ac.in",
+          "imageUrl": "https://www.schools360.in/wp-content/uploads/2019/04/Panjab-University.jpg"
         }
       ]
     },
@@ -60,71 +86,34 @@
       "siteUrl": "https://www.schools360.in/",
       "articles": [
         {
-          "id": "https://wordpress-625465-2031528.cloudwaysapps.com/?p=150544",
+          "id": "https://www.schools360.in/?p=165126",
           "author": "Schools 360",
-          "description": "National Institutional Ranking Framework (NIRF) has been Released for the Year 2022. The following are the Top Engineering Colleges with Rankings. The NIRF ranking 2022 was released on June 11 by union education minister Ramesh Pokhriyal ‘Nishank’. NIRF Rankings 2022 Top IITs and Best 300 Engineering Colleges in India – Engineering Rank Name State Score\nThe post Top 300 Engineering Colleges in India 2022 NIRF Ranking Total List appeared first on Schools360.in.",
-          "link": "https://www.schools360.in/nirf-2020-rankings/",
-          "publishedOn": "2022-07-20T18:48:00.000Z",
-          "wordCount": 5684,
-          "title": "Top 300 Engineering Colleges in India 2022 NIRF Ranking Total List",
-          "imageUrl": "https://www.schools360.in/wp-content/uploads/2021/11/NIRF-ranking-2022.jpg"
+          "description": "The National Health Mission (NHM), Uttar Pradesh invites online applications from eligible candidates for approximately 5505 contractual vacancies. This is a part of initiative Under the Ayushman Bharat Scheme, GoUP envisioned to strengthen Sub-Health Centers as Health and Wellness Centers (HWCs) for improved implementation of public health programs and to enable comprehensive primary healthcare service\nThe post NHM UP CHO Recruitment 2022 Apply 5505 Community Health Officer Vacancy appeared first on Schools360.in.",
+          "link": "https://www.schools360.in/nhm-up-cho-recruitment/",
+          "publishedOn": "2022-07-21T17:06:29.000Z",
+          "wordCount": 3953,
+          "title": "NHM UP CHO Recruitment 2022 Apply 5505 Community Health Officer Vacancy",
+          "imageUrl": "https://www.schools360.in/wp-content/uploads/2017/10/nhm.jpg"
         },
         {
-          "id": "https://www.schools360.in/?p=174141",
+          "id": "https://www.schools360.in/?p=189868",
           "author": "Schools 360",
-          "description": "PPSC Recruitment 2022 – 418 Veterinary Officer Vacancy: Punjab Public Service Commission (PPSC) has recently Published Recruitment Notification or an Employment News for the recruitment of 418 Veterinary Officer Vacancies. Candidates who’re eligible for this Recruitment & are to Apply for this Posts these Eligible Aspirants Can Apply Online earlier than 27/07/2022. It’s a Very Good Alternative\nThe post PPSC Veterinary Officer Recruitment 2022 Apply for 418 Posts before July 27 appeared first on Schools360.in.",
-          "link": "https://www.schools360.in/ppsc-veterinary-officer-recruitment/",
-          "publishedOn": "2022-07-20T18:28:22.000Z",
-          "wordCount": 3547,
-          "title": "PPSC Veterinary Officer Recruitment 2022 Apply for 418 Posts before July 27",
-          "imageUrl": "https://www.schools360.in/wp-content/uploads/2019/12/DHAJ-Punjab.png"
+          "description": "Central Recruitment Board on behalf of Bodoland Territorial Region, Assam invites candidates to apply Offline for the posts of Veterinary Field Assistant having full qualifications for these posts. The detailed information of the candidates who have applied Offline for BTR Veterinary Field Assistant Recruitment 2022 is given below. BTR Recruitment 2022 – Apply Offline for\nThe post BTR Veterinary Field Assistant Recruitment 2022 Apply for 78 Vacancy appeared first on Schools360.in.",
+          "link": "https://www.schools360.in/btr-veterinary-field-assistant-recruitment/",
+          "publishedOn": "2022-07-21T16:57:17.000Z",
+          "wordCount": 3306,
+          "title": "BTR Veterinary Field Assistant Recruitment 2022 Apply for 78 Vacancy",
+          "imageUrl": "https://www.schools360.in/wp-content/uploads/2021/01/assam-govt-jobs.jpg"
         },
         {
-          "id": "https://wordpress-625465-2031528.cloudwaysapps.com/?p=66283",
-          "author": "Schools 360",
-          "description": "Central Ground Water Board is Today Released a Special Notification to Recruit 26 vacancies of Drivers.  CGWB invites offline applications for recruitment of 26 posts of Staff Car Driver (Ordinary Grade) Group-‘C’ (Ministerial, Non-Gazetted), temporary but likely to continue in Central Ground Water, Ministry of Jal Shakti, Department of Water Resources, River Development and Ganga\nThe post CGWB Recruitment 2022 Apply 26 Staff Car Driver Vacancy appeared first on Schools360.in.",
-          "link": "https://www.schools360.in/cgwb-recruitment/",
-          "publishedOn": "2022-07-20T18:22:37.000Z",
-          "wordCount": 3789,
-          "title": "CGWB Recruitment 2022 Apply 26 Staff Car Driver Vacancy",
-          "imageUrl": "https://www.schools360.in/wp-content/uploads/2017/09/cgwb.jpg"
-        }
-      ]
-    },
-    {
-      "title": "Schools360.in",
-      "feedUrl": "https://www.schools360.in/feed/",
-      "siteUrl": "https://www.schools360.in/",
-      "articles": [
-        {
-          "id": "https://wordpress-625465-2031528.cloudwaysapps.com/?p=150544",
-          "author": "Schools 360",
-          "description": "National Institutional Ranking Framework (NIRF) has been Released for the Year 2022. The following are the Top Engineering Colleges with Rankings. The NIRF ranking 2022 was released on June 11 by union education minister Ramesh Pokhriyal ‘Nishank’. NIRF Rankings 2022 Top IITs and Best 300 Engineering Colleges in India – Engineering Rank Name State Score\nThe post Top 300 Engineering Colleges in India 2022 NIRF Ranking Total List appeared first on Schools360.in.",
-          "link": "https://www.schools360.in/nirf-2020-rankings/",
-          "publishedOn": "2022-07-20T18:48:00.000Z",
-          "wordCount": 5684,
-          "title": "Top 300 Engineering Colleges in India 2022 NIRF Ranking Total List",
-          "imageUrl": "https://www.schools360.in/wp-content/uploads/2021/11/NIRF-ranking-2022.jpg"
-        },
-        {
-          "id": "https://www.schools360.in/?p=174141",
-          "author": "Schools 360",
-          "description": "PPSC Recruitment 2022 – 418 Veterinary Officer Vacancy: Punjab Public Service Commission (PPSC) has recently Published Recruitment Notification or an Employment News for the recruitment of 418 Veterinary Officer Vacancies. Candidates who’re eligible for this Recruitment & are to Apply for this Posts these Eligible Aspirants Can Apply Online earlier than 27/07/2022. It’s a Very Good Alternative\nThe post PPSC Veterinary Officer Recruitment 2022 Apply for 418 Posts before July 27 appeared first on Schools360.in.",
-          "link": "https://www.schools360.in/ppsc-veterinary-officer-recruitment/",
-          "publishedOn": "2022-07-20T18:28:22.000Z",
-          "wordCount": 3547,
-          "title": "PPSC Veterinary Officer Recruitment 2022 Apply for 418 Posts before July 27",
-          "imageUrl": "https://www.schools360.in/wp-content/uploads/2019/12/DHAJ-Punjab.png"
-        },
-        {
-          "id": "https://wordpress-625465-2031528.cloudwaysapps.com/?p=66283",
-          "author": "Schools 360",
-          "description": "Central Ground Water Board is Today Released a Special Notification to Recruit 26 vacancies of Drivers.  CGWB invites offline applications for recruitment of 26 posts of Staff Car Driver (Ordinary Grade) Group-‘C’ (Ministerial, Non-Gazetted), temporary but likely to continue in Central Ground Water, Ministry of Jal Shakti, Department of Water Resources, River Development and Ganga\nThe post CGWB Recruitment 2022 Apply 26 Staff Car Driver Vacancy appeared first on Schools360.in.",
-          "link": "https://www.schools360.in/cgwb-recruitment/",
-          "publishedOn": "2022-07-20T18:22:37.000Z",
-          "wordCount": 3789,
-          "title": "CGWB Recruitment 2022 Apply 26 Staff Car Driver Vacancy",
-          "imageUrl": "https://www.schools360.in/wp-content/uploads/2017/09/cgwb.jpg"
+          "id": "https://www.schools360.in/?p=189865",
+          "author": "Maheshari Yerra",
+          "description": "PUTHAT Answer Key 2022 (Released on July 20) PUTHAT Answer Key 2022 has Declared on July 20th, 2022. Check PUTHAT Exam Key, Objections @ puthat.puchd.ac.in. Punjab University has declared the PUTHAT Answer Key 2022 in online. PUTHAT stands for Panjab University Tourism & Hospitality Aptitude Test. So the candidates who had appeared for the PUTHAT\nThe post PUTHAT Answer Key 2022 (Released) PUTHAT Exam key, Objections Download @ puthat.puchd.ac.in appeared first on Schools360.in.",
+          "link": "https://www.schools360.in/puthat-answer-key/",
+          "publishedOn": "2022-07-21T12:51:12.000Z",
+          "wordCount": 3257,
+          "title": "PUTHAT Answer Key 2022 (Released) PUTHAT Exam key, Objections Download @ puthat.puchd.ac.in",
+          "imageUrl": "https://www.schools360.in/wp-content/uploads/2019/04/Panjab-University.jpg"
         }
       ]
     }
